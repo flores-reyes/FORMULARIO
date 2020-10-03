@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.registros{
+    width: 400px;
+    background: cadetblue;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: cornsilk;
+}
+
+.registros h4{
+ font-size: 22px;
+ margin-bottom: 20px;
+
+}
+.controls{
+    width: 100%;
+    background: peachpuff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #8f8f8f;
+    font-family: cursive;
+    font-size: 18px;
+
+}
+
+.ESTILOS{
+    align-items: center;
+    width: 100%;
+    background: darkgray;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 5px solid rgb(65, 111, 143);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+
+}
+.registros p{
+ height: 60px;
+ text-align: center;
+ font-size: 18px;
+
+}
+
+.registros a{
+    color: white;
+    text-decoration: none;
+}
+.registros a:hover{ 
+    color: white;
+    text-decoration: underline;
+
+}
+
+.registros .botones{
+   width: 100%;
+   background: #1f53c5;
+   border: none;
+   padding: 12px; 
+   color: white;
+   margin: 16px 0;
+   font-size: 16px;
+}
